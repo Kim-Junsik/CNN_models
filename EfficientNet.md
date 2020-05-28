@@ -1,9 +1,9 @@
 ## EfficientNet
-
+https://github.com/JeongGyuJun/classification_efficientnet - EfficientNet 구현
 ### Abstract
 모델 스케일링을 체계적으로 연구하여 네트워크 Depth, Width 및 Resolution의 세심한 균형이 더 나은 성능으로 이어질 수 있음. 그럼으로 복합 계수를 사용하여 모든 차원의 Width/Depth/Resolution를 균일하게 확장하는 새로운 스케일링 밥법을 제안.
 
-EfficientNet-B에서  ImageNet에서 84.4% top-1 / 97.1% top-5 정확도를 달성함.
+EfficientNet-B모델 ImageNet에서 84.4% top-1 / 97.1% top-5 정확도를 달성함.
 
 결과적으로 높은 정확도와 매개변수가 크게 감소하는 효율성을 얻음.
 
