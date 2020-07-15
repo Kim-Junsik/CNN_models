@@ -31,12 +31,12 @@
 3. [cross_validation_multiclass_model_tuning](https://github.com/Kim-Junsik/CNN_models/blob/master/classification_training/cross_validation_multiclass_model_tuning.ipynb)
 
 #### - [kaggle Dogs vs Cats](https://github.com/Kim-Junsik/CNN_models/tree/master/kaggle_dogs_vs_cats)
-1. [VggNet(Accuracy - Feature Map 비교)](https://github.com/JeongGyuJun/classification_vgg16net)
-2. [ResNet(Layer - 50, 101 비교)](https://github.com/JeongGyuJun/classfication_resnet)
-3. [DenseNet(Pooling - Max, Avg 비교)](https://github.com/JeongGyuJun/classification_densenet)
-4. [EfficientNet(Optimizer - SGD, Adam 비교)](https://github.com/JeongGyuJun/classification_efficientnet) 
-5. [Data Analysis(Grad CAM 이용)](https://github.com/JeongGyuJun/Cats-vs-Dogs-Data-grad-cam)
-6. [Image Convert(Pixel Update, Noise, Formatting)](https://github.com/JeongGyuJun/image_convert)
+1. [VggNet(Accuracy - Feature Map 비교)](https://github.com/Kim-Junsik/Classification_VGGNet)
+2. [ResNet(Layer - 50, 101 비교)](https://github.com/Kim-Junsik/Classification_ResNet)
+3. [DenseNet(Pooling - Max, Avg 비교)](https://github.com/Kim-Junsik/Classification_DenseNet)
+4. [EfficientNet(Optimizer - SGD, Adam 비교)](https://github.com/Kim-Junsik/Classification_EfficientNet) 
+5. [Data Analysis(Grad CAM 이용)](https://github.com/Kim-Junsik/Cats_vs_Dogs_Data_grad_cam)
+6. [Image Convert(Pixel Update, Noise, Formatting)](https://github.com/Kim-Junsik/image_convert)
 
 #### - [kaggle_plant pathology 2020](https://github.com/Kim-Junsik/kaggle_plant_pathology2020)
 1. [Select_Model](https://github.com/Kim-Junsik/kaggle_plant_pathology2020/tree/master/select_model)
