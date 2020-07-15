@@ -1,7 +1,5 @@
 ## VGGNet
 
-https://github.com/JeongGyuJun/classification_vgg16net - VGG16구현.
-
 ### ABSTRACT
 ##### 연구 수행
 

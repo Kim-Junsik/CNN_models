@@ -1,5 +1,4 @@
 ## DenseNet(Densely Connected Convolutional Networks)
-https://github.com/JeongGyuJun/classification_densenet - DenseNet 구현
 
 ### -Abstract.
 

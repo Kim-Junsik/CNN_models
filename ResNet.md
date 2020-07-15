@@ -1,7 +1,5 @@
 ## RESNET
 
-https://github.com/JeongGyuJun/classfication_resnet - ResNet 구현
-
 ### ABSTRACT
 이전에 사용했던 것보다 상당히 깊은 네트워크의 훈련을 쉽게 하기 위해 Residual Learning Framework를 제시. 이는 계층을 참조되지 않은 함수를 학습하는 대신 계층 입력에 대한 학습 잔량 함수로 명시적으로 재조정을 함. 
 

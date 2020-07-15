@@ -1,35 +1,46 @@
-## CNN(Convolutional Neural Network)
+## [CNN(Convolutional Neural Network)](https://github.com/Kim-Junsik/CNN_models/blob/master/CNN.md)
 
 ##### - paper(model, attention etc...)
 ###### (VggNet, ResNet, DenseNet, EfficientNet).md 시작 부분 kaggle cat-vs-dog dataset에 대해 여러 실험 결과 링크 설정.
-1. VggNet
-2. ResNet
-3. DenseNet
-4. EfficientNet
-5. MobileNet
-6. SE(Squeeze-and-Excitation)Net
-7. Convolutinal Block Attention Module
-8. A Comprehensive Overhaul of Feature Distillation
-9. Assemble_CNN
-10. Learning in the Frequency Domain
-11. U-Net
-12. YOLO(You Only Look Once)
+1. [VggNet](https://github.com/Kim-Junsik/CNN_models/blob/master/VGG16.md)
+2. [ResNet](https://github.com/Kim-Junsik/CNN_models/blob/master/ResNet.md)
+3. [DenseNet](https://github.com/Kim-Junsik/CNN_models/blob/master/DenseNet.md)
+4. [EfficientNet](https://github.com/Kim-Junsik/CNN_models/blob/master/EfficientNet.md)
+5. [MobileNet](https://github.com/Kim-Junsik/CNN_models/master/MobileNet.md)
+6. [SE(Squeeze-and-Excitation)Net](https://github.com/Kim-Junsik/CNN_models/blob/master/Squeeze-and-Excitation_Net.md)
+7. [Convolutinal Block Attention ](https://github.com/Kim-Junsik/CNN_models/blob/master/Convolution_block_attention_module.md)
+8. [A Comprehensive Overhaul of Feature Distillation](https://github.com/Kim-Junsik/CNN_models/blob/master/A_Comprehensive_Overhaul%20of_Feature_Distillation.md)
 
-##### - model code
-1. VggNet
-2. ResNet
-3. DenseNet
-4. EfficientNet
-5. MobileNet
+9. [Assemble_CNN](https://github.com/Kim-Junsik/CNN_models/blob/master/Assembled_CNN.md)
+10. [Learning in the Frequency Domain](https://github.com/Kim-Junsik/CNN_models/blob/master/Learning%20in%20the%20Frequency%20Domain.md)
+11. [U-Net](https://github.com/Kim-Junsik/CNN_models/blob/master/U_Net.md)
+12. [FCN(Fully Convolutional Networks)](https://github.com/Kim-Junsik/CNN_models/blob/master/FCN.md)
+13. [FPN(Feature Pyramid Networks)](https://github.com/Kim-Junsik/CNN_models/blob/master/FPN.md)
+14. [YOLO(You Only Look Once)](https://github.com/Kim-Junsik/CNN_models/blob/master/YOLO.md)
 
-#### - classification training
-1. binary_model_tuning
-2. multiclass_model_tuning
+##### - [model code](https://github.com/Kim-Junsik/CNN_models/tree/master/model_code)
+1. [VggNet](https://github.com/Kim-Junsik/CNN_models/blob/master/model_code/VggNet.ipynb)
+2. [ResNet](https://github.com/Kim-Junsik/CNN_models/blob/master/model_code/ResNet.ipynb)
+3. [DenseNet](https://github.com/Kim-Junsik/CNN_models/blob/master/model_code/DenseNet.ipynb)
+4. [EfficientNet](https://github.com/Kim-Junsik/CNN_models/blob/master/model_code/EFFICIENTNET_B0_7.ipynb)
+5. [MobileNet](https://github.com/Kim-Junsik/CNN_models/blob/master/model_code/MobileNet_V1.ipynb)
 
-#### - Artificial Intelligence_Machine Learning_Deep Learning
-READMEMD(소개 및 실험 내용 정리)
+#### - [classification training](https://github.com/Kim-Junsik/CNN_models/tree/master/classification_training)
+1. [binary_model_tuning](https://github.com/Kim-Junsik/CNN_models/blob/master/classification_training/binary_model_tuning.ipynb)
+2. [multiclass_model_tuning](https://github.com/Kim-Junsik/CNN_models/blob/master/classification_training/multiclass_model_tuning.ipynb)
+3. [cross_validation_multiclass_model_tuning](https://github.com/Kim-Junsik/CNN_models/blob/master/classification_training/cross_validation_multiclass_model_tuning.ipynb)
 
-1.select_model
+#### - [kaggle Dogs vs Cats](https://github.com/Kim-Junsik/CNN_models/tree/master/kaggle_dogs_vs_cats)
+1. [VggNet(Accuracy - Feature Map 비교)](https://github.com/JeongGyuJun/classification_vgg16net)
+2. [ResNet(Layer - 50, 101 비교)](https://github.com/JeongGyuJun/classfication_resnet)
+3. [DenseNet(Pooling - Max, Avg 비교)](https://github.com/JeongGyuJun/classification_densenet)
+4. [EfficientNet(Optimizer - SGD, Adam 비교)](https://github.com/JeongGyuJun/classification_efficientnet) 
+5. [Data Analysis(Grad CAM 이용)](https://github.com/JeongGyuJun/Cats-vs-Dogs-Data-grad-cam)
+6. [Image Convert(Pixel Update, Noise, Formatting)](https://github.com/JeongGyuJun/image_convert)
 
-#### - kaggle_plant pathology 2020
-
+#### - [kaggle_plant pathology 2020](https://github.com/Kim-Junsik/CNN_models/tree/master/kaggle_plant_pathology2020)
+1. [Select_Model](https://github.com/Kim-Junsik/CNN_models/tree/master/kaggle_plant_pathology2020/select_model)
+2. [Find_Layer](https://github.com/Kim-Junsik/CNN_models/tree/master/kaggle_plant_pathology2020/find_layer)
+3. [Data_Classification](https://github.com/Kim-Junsik/CNN_models/tree/master/kaggle_plant_pathology2020/Data_Classification)
+4. [Use_Attention](https://github.com/Kim-Junsik/CNN_models/tree/master/kaggle_plant_pathology2020/Use_Attention)
+5. [Optimizers](https://github.com/Kim-Junsik/CNN_models/tree/master/kaggle_plant_pathology2020/Optimizers)
